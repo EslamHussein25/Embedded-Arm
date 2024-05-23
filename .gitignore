@@ -1,6 +1,8 @@
 # Prerequisites
 *.d
-
+*.mp4
+*.gitignore
+.gitignore
 # Object files
 *.o
 *.ko
